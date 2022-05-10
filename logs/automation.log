@@ -5156,3 +5156,223 @@
 2022-05-10 14:53:24,330 - root - ERROR - ********** TEST ADD MEMBER FAILED*************
 2022-05-10 14:53:24,330 - root - ERROR - ********** TEST ADD MEMBER FAILED*************
 2022-05-10 14:53:24,330 - root - ERROR - ********** TEST ADD MEMBER FAILED*************
+2022-05-10 18:43:39,749 - WDM - INFO - 
+
+2022-05-10 18:43:39,749 - WDM - INFO - 
+
+2022-05-10 18:43:39,749 - WDM - INFO - 
+
+2022-05-10 18:43:39,749 - WDM - INFO - 
+
+2022-05-10 18:43:39,749 - WDM - INFO - 
+
+2022-05-10 18:43:39,766 - WDM - INFO - ====== WebDriver manager ======
+2022-05-10 18:43:39,766 - WDM - INFO - ====== WebDriver manager ======
+2022-05-10 18:43:39,766 - WDM - INFO - ====== WebDriver manager ======
+2022-05-10 18:43:39,766 - WDM - INFO - ====== WebDriver manager ======
+2022-05-10 18:43:39,766 - WDM - INFO - ====== WebDriver manager ======
+2022-05-10 18:44:08,119 - WDM - INFO - 
+
+2022-05-10 18:44:08,119 - WDM - INFO - 
+
+2022-05-10 18:44:08,119 - WDM - INFO - 
+
+2022-05-10 18:44:08,119 - WDM - INFO - 
+
+2022-05-10 18:44:08,119 - WDM - INFO - 
+
+2022-05-10 18:44:08,119 - WDM - INFO - ====== WebDriver manager ======
+2022-05-10 18:44:08,119 - WDM - INFO - ====== WebDriver manager ======
+2022-05-10 18:44:08,119 - WDM - INFO - ====== WebDriver manager ======
+2022-05-10 18:44:08,119 - WDM - INFO - ====== WebDriver manager ======
+2022-05-10 18:44:08,119 - WDM - INFO - ====== WebDriver manager ======
+2022-05-10 18:44:09,225 - WDM - INFO - Current google-chrome version is 101.0.4951
+2022-05-10 18:44:09,225 - WDM - INFO - Current google-chrome version is 101.0.4951
+2022-05-10 18:44:09,225 - WDM - INFO - Current google-chrome version is 101.0.4951
+2022-05-10 18:44:09,225 - WDM - INFO - Current google-chrome version is 101.0.4951
+2022-05-10 18:44:09,225 - WDM - INFO - Current google-chrome version is 101.0.4951
+2022-05-10 18:44:09,225 - WDM - INFO - Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-10 18:44:09,225 - WDM - INFO - Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-10 18:44:09,225 - WDM - INFO - Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-10 18:44:09,225 - WDM - INFO - Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-10 18:44:09,225 - WDM - INFO - Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-10 18:44:10,250 - WDM - INFO - Driver [C:\Users\nada\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+2022-05-10 18:44:10,250 - WDM - INFO - Driver [C:\Users\nada\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+2022-05-10 18:44:10,250 - WDM - INFO - Driver [C:\Users\nada\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+2022-05-10 18:44:10,250 - WDM - INFO - Driver [C:\Users\nada\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+2022-05-10 18:44:10,250 - WDM - INFO - Driver [C:\Users\nada\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+2022-05-10 20:49:34,834 - WDM - INFO - 
+
+2022-05-10 20:49:34,834 - WDM - INFO - 
+
+2022-05-10 20:49:34,834 - WDM - INFO - 
+
+2022-05-10 20:49:34,834 - WDM - INFO - 
+
+2022-05-10 20:49:34,834 - WDM - INFO - 
+
+2022-05-10 20:49:34,882 - WDM - INFO - ====== WebDriver manager ======
+2022-05-10 20:49:34,882 - WDM - INFO - ====== WebDriver manager ======
+2022-05-10 20:49:34,882 - WDM - INFO - ====== WebDriver manager ======
+2022-05-10 20:49:34,882 - WDM - INFO - ====== WebDriver manager ======
+2022-05-10 20:49:34,882 - WDM - INFO - ====== WebDriver manager ======
+2022-05-10 20:49:42,344 - WDM - INFO - Current google-chrome version is 101.0.4951
+2022-05-10 20:49:42,344 - WDM - INFO - Current google-chrome version is 101.0.4951
+2022-05-10 20:49:42,344 - WDM - INFO - Current google-chrome version is 101.0.4951
+2022-05-10 20:49:42,344 - WDM - INFO - Current google-chrome version is 101.0.4951
+2022-05-10 20:49:42,344 - WDM - INFO - Current google-chrome version is 101.0.4951
+2022-05-10 20:49:42,344 - WDM - INFO - Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-10 20:49:42,344 - WDM - INFO - Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-10 20:49:42,344 - WDM - INFO - Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-10 20:49:42,344 - WDM - INFO - Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-10 20:49:42,344 - WDM - INFO - Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-10 20:49:46,216 - WDM - INFO - Driver [C:\Users\nada\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+2022-05-10 20:49:46,216 - WDM - INFO - Driver [C:\Users\nada\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+2022-05-10 20:49:46,216 - WDM - INFO - Driver [C:\Users\nada\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+2022-05-10 20:49:46,216 - WDM - INFO - Driver [C:\Users\nada\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+2022-05-10 20:49:46,216 - WDM - INFO - Driver [C:\Users\nada\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+2022-05-10 20:49:57,935 - root - INFO - ******** LOGIN TEST ********
+2022-05-10 20:49:57,935 - root - INFO - ******** LOGIN TEST ********
+2022-05-10 20:49:57,935 - root - INFO - ******** LOGIN TEST ********
+2022-05-10 20:49:57,935 - root - INFO - ******** LOGIN TEST ********
+2022-05-10 20:49:57,935 - root - INFO - ******** LOGIN TEST ********
+2022-05-10 20:49:57,936 - root - INFO - ******** VERIFYING LOGIN TEST ********
+2022-05-10 20:49:57,936 - root - INFO - ******** VERIFYING LOGIN TEST ********
+2022-05-10 20:49:57,936 - root - INFO - ******** VERIFYING LOGIN TEST ********
+2022-05-10 20:49:57,936 - root - INFO - ******** VERIFYING LOGIN TEST ********
+2022-05-10 20:49:57,936 - root - INFO - ******** VERIFYING LOGIN TEST ********
+2022-05-10 20:50:05,166 - WDM - INFO - 
+
+2022-05-10 20:50:05,166 - WDM - INFO - 
+
+2022-05-10 20:50:05,166 - WDM - INFO - 
+
+2022-05-10 20:50:05,166 - WDM - INFO - 
+
+2022-05-10 20:50:05,166 - WDM - INFO - 
+
+2022-05-10 20:50:05,166 - WDM - INFO - ====== WebDriver manager ======
+2022-05-10 20:50:05,166 - WDM - INFO - ====== WebDriver manager ======
+2022-05-10 20:50:05,166 - WDM - INFO - ====== WebDriver manager ======
+2022-05-10 20:50:05,166 - WDM - INFO - ====== WebDriver manager ======
+2022-05-10 20:50:05,166 - WDM - INFO - ====== WebDriver manager ======
+2022-05-10 20:50:07,468 - WDM - INFO - Current google-chrome version is 101.0.4951
+2022-05-10 20:50:07,468 - WDM - INFO - Current google-chrome version is 101.0.4951
+2022-05-10 20:50:07,468 - WDM - INFO - Current google-chrome version is 101.0.4951
+2022-05-10 20:50:07,468 - WDM - INFO - Current google-chrome version is 101.0.4951
+2022-05-10 20:50:07,468 - WDM - INFO - Current google-chrome version is 101.0.4951
+2022-05-10 20:50:07,468 - WDM - INFO - Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-10 20:50:07,468 - WDM - INFO - Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-10 20:50:07,468 - WDM - INFO - Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-10 20:50:07,468 - WDM - INFO - Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-10 20:50:07,468 - WDM - INFO - Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-10 20:50:08,718 - WDM - INFO - Driver [C:\Users\nada\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+2022-05-10 20:50:08,718 - WDM - INFO - Driver [C:\Users\nada\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+2022-05-10 20:50:08,718 - WDM - INFO - Driver [C:\Users\nada\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+2022-05-10 20:50:08,718 - WDM - INFO - Driver [C:\Users\nada\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+2022-05-10 20:50:08,718 - WDM - INFO - Driver [C:\Users\nada\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+2022-05-10 20:50:11,405 - root - INFO - ******** LOGIN TEST ********
+2022-05-10 20:50:11,405 - root - INFO - ******** LOGIN TEST ********
+2022-05-10 20:50:11,405 - root - INFO - ******** LOGIN TEST ********
+2022-05-10 20:50:11,405 - root - INFO - ******** LOGIN TEST ********
+2022-05-10 20:50:11,405 - root - INFO - ******** LOGIN TEST ********
+2022-05-10 20:50:11,405 - root - INFO - ******** VERIFYING LOGIN TEST ********
+2022-05-10 20:50:11,405 - root - INFO - ******** VERIFYING LOGIN TEST ********
+2022-05-10 20:50:11,405 - root - INFO - ******** VERIFYING LOGIN TEST ********
+2022-05-10 20:50:11,405 - root - INFO - ******** VERIFYING LOGIN TEST ********
+2022-05-10 20:50:11,405 - root - INFO - ******** VERIFYING LOGIN TEST ********
+2022-05-10 20:50:33,545 - WDM - INFO - 
+
+2022-05-10 20:50:33,545 - WDM - INFO - 
+
+2022-05-10 20:50:33,545 - WDM - INFO - 
+
+2022-05-10 20:50:33,545 - WDM - INFO - 
+
+2022-05-10 20:50:33,545 - WDM - INFO - 
+
+2022-05-10 20:50:33,546 - WDM - INFO - ====== WebDriver manager ======
+2022-05-10 20:50:33,546 - WDM - INFO - ====== WebDriver manager ======
+2022-05-10 20:50:33,546 - WDM - INFO - ====== WebDriver manager ======
+2022-05-10 20:50:33,546 - WDM - INFO - ====== WebDriver manager ======
+2022-05-10 20:50:33,546 - WDM - INFO - ====== WebDriver manager ======
+2022-05-10 20:50:35,983 - WDM - INFO - Current google-chrome version is 101.0.4951
+2022-05-10 20:50:35,983 - WDM - INFO - Current google-chrome version is 101.0.4951
+2022-05-10 20:50:35,983 - WDM - INFO - Current google-chrome version is 101.0.4951
+2022-05-10 20:50:35,983 - WDM - INFO - Current google-chrome version is 101.0.4951
+2022-05-10 20:50:35,983 - WDM - INFO - Current google-chrome version is 101.0.4951
+2022-05-10 20:50:35,984 - WDM - INFO - Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-10 20:50:35,984 - WDM - INFO - Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-10 20:50:35,984 - WDM - INFO - Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-10 20:50:35,984 - WDM - INFO - Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-10 20:50:35,984 - WDM - INFO - Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-10 20:50:39,129 - WDM - INFO - Driver [C:\Users\nada\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+2022-05-10 20:50:39,129 - WDM - INFO - Driver [C:\Users\nada\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+2022-05-10 20:50:39,129 - WDM - INFO - Driver [C:\Users\nada\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+2022-05-10 20:50:39,129 - WDM - INFO - Driver [C:\Users\nada\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+2022-05-10 20:50:39,129 - WDM - INFO - Driver [C:\Users\nada\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+2022-05-10 20:50:43,792 - root - INFO - ******** LOGIN TEST ********
+2022-05-10 20:50:43,792 - root - INFO - ******** LOGIN TEST ********
+2022-05-10 20:50:43,792 - root - INFO - ******** LOGIN TEST ********
+2022-05-10 20:50:43,792 - root - INFO - ******** LOGIN TEST ********
+2022-05-10 20:50:43,792 - root - INFO - ******** LOGIN TEST ********
+2022-05-10 20:50:43,793 - root - INFO - ******** VERIFYING LOGIN TEST ********
+2022-05-10 20:50:43,793 - root - INFO - ******** VERIFYING LOGIN TEST ********
+2022-05-10 20:50:43,793 - root - INFO - ******** VERIFYING LOGIN TEST ********
+2022-05-10 20:50:43,793 - root - INFO - ******** VERIFYING LOGIN TEST ********
+2022-05-10 20:50:43,793 - root - INFO - ******** VERIFYING LOGIN TEST ********
+2022-05-10 20:50:49,712 - WDM - INFO - 
+
+2022-05-10 20:50:49,712 - WDM - INFO - 
+
+2022-05-10 20:50:49,712 - WDM - INFO - 
+
+2022-05-10 20:50:49,712 - WDM - INFO - 
+
+2022-05-10 20:50:49,712 - WDM - INFO - 
+
+2022-05-10 20:50:49,712 - WDM - INFO - ====== WebDriver manager ======
+2022-05-10 20:50:49,712 - WDM - INFO - ====== WebDriver manager ======
+2022-05-10 20:50:49,712 - WDM - INFO - ====== WebDriver manager ======
+2022-05-10 20:50:49,712 - WDM - INFO - ====== WebDriver manager ======
+2022-05-10 20:50:49,712 - WDM - INFO - ====== WebDriver manager ======
+2022-05-10 20:50:52,504 - WDM - INFO - Current google-chrome version is 101.0.4951
+2022-05-10 20:50:52,504 - WDM - INFO - Current google-chrome version is 101.0.4951
+2022-05-10 20:50:52,504 - WDM - INFO - Current google-chrome version is 101.0.4951
+2022-05-10 20:50:52,504 - WDM - INFO - Current google-chrome version is 101.0.4951
+2022-05-10 20:50:52,504 - WDM - INFO - Current google-chrome version is 101.0.4951
+2022-05-10 20:50:52,504 - WDM - INFO - Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-10 20:50:52,504 - WDM - INFO - Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-10 20:50:52,504 - WDM - INFO - Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-10 20:50:52,504 - WDM - INFO - Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-10 20:50:52,504 - WDM - INFO - Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-10 20:50:54,331 - WDM - INFO - Driver [C:\Users\nada\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+2022-05-10 20:50:54,331 - WDM - INFO - Driver [C:\Users\nada\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+2022-05-10 20:50:54,331 - WDM - INFO - Driver [C:\Users\nada\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+2022-05-10 20:50:54,331 - WDM - INFO - Driver [C:\Users\nada\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+2022-05-10 20:50:54,331 - WDM - INFO - Driver [C:\Users\nada\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+2022-05-10 20:50:56,908 - root - INFO - ******** LOGIN TEST ********
+2022-05-10 20:50:56,908 - root - INFO - ******** LOGIN TEST ********
+2022-05-10 20:50:56,908 - root - INFO - ******** LOGIN TEST ********
+2022-05-10 20:50:56,908 - root - INFO - ******** LOGIN TEST ********
+2022-05-10 20:50:56,908 - root - INFO - ******** LOGIN TEST ********
+2022-05-10 20:50:56,908 - root - INFO - ******** VERIFYING LOGIN TEST ********
+2022-05-10 20:50:56,908 - root - INFO - ******** VERIFYING LOGIN TEST ********
+2022-05-10 20:50:56,908 - root - INFO - ******** VERIFYING LOGIN TEST ********
+2022-05-10 20:50:56,908 - root - INFO - ******** VERIFYING LOGIN TEST ********
+2022-05-10 20:50:56,908 - root - INFO - ******** VERIFYING LOGIN TEST ********
+2022-05-10 20:51:52,505 - WDM - INFO - 
+
+2022-05-10 20:51:52,505 - WDM - INFO - 
+
+2022-05-10 20:51:52,505 - WDM - INFO - 
+
+2022-05-10 20:51:52,505 - WDM - INFO - 
+
+2022-05-10 20:51:52,505 - WDM - INFO - 
+
+2022-05-10 20:51:52,506 - WDM - INFO - ====== WebDriver manager ======
+2022-05-10 20:51:52,506 - WDM - INFO - ====== WebDriver manager ======
+2022-05-10 20:51:52,506 - WDM - INFO - ====== WebDriver manager ======
+2022-05-10 20:51:52,506 - WDM - INFO - ====== WebDriver manager ======
+2022-05-10 20:51:52,506 - WDM - INFO - ====== WebDriver manager ======
