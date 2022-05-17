@@ -73,7 +73,7 @@ class Ajouterjardin():
         b55 = self.driver.find_element_by_xpath("/html/body/app-root/app-jardin/app-add-post/html/body/div/div/div/div[2]/div[2]/div[1]/div")
         sleep(1)
         b55.click()
-        self.driver.find_element_by_id("customFile5").send_keys("C://rana/20210723_121022.jpg")
+        self.driver.find_element_by_xpath("//*[@id='customFile3']").send_keys("C://rana/20210723_121022.jpg")
         b56 = self.driver.find_element_by_xpath("//*[@id='add-sieste']/div/div/div[3]/button")
         sleep(2)
         b56.click()

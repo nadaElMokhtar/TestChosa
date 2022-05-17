@@ -12,8 +12,9 @@ class AjouterStatut():
 
     def clickOnAddstat(self):
         card = WebDriverWait(self.driver, 20).until(
-            EC.element_to_be_clickable((By.XPATH,"/html/body/app-root/app-parent/main/div/div/div[2]/app-acceuil/html/body/app-child-dash/html/body/div/div/div/div/div/div/div/div/h6")))
+            EC.element_to_be_clickable((By.XPATH,"/html/body/app-root/app-parent/main/div/div/div[2]/app-acceuil/html/body/app-child-dash/html/body/div/div/div/div/div/div/div/div[5]/div/h6")))
         card.click()
+
 
         # /html/body/app-root/app-parent/main/div/div/div[2]/app-acceuil/html/body/app-child-dash/html/body/div/div/div/div/div/div/div/div/h4
 

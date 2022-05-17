@@ -22,6 +22,8 @@ class Test_addGarden:
         self.lp.setPassword(self.password)
         self.logger.info("***** START ADDING GARDEN ******")
         self.addgar= Ajouterjardin(self.driver)
+        self.logger.info("***** TEST ADDING GARDEN ******")
+        self.logger.info("***** PROVIDING GARDEN INFORMATION  ******")
         self.addgar.clickOnNavBar()
         sleep(1)
         self.addgar.setGardenName("mon ecole doudi")
@@ -29,11 +31,10 @@ class Test_addGarden:
         self.addgar.setville("tunisie")
         self.addgar.setAdress("benarous")
         sleep(2)
+        self.logger.info("***** ADDING GARDEN TEST PASSED ******")
         #SO WE CAN ACCESS THE GARDENS'LIST
+        self.logger.info("***** START TEST ADDING ACTIVITY ******")
         self.addgar.clickOnNavBarsecond()
-        sleep(1)
-        self.addgar.Addacimage()
-        """sleep(3)
-        self.addgar.Addacpdf()"""
-        sleep(2)
-        self.driver.close()
+        self.logger.info("***** PROVIDING ACTIVITY INFORMATION ******")
+        self.logger.error("********** ADD ACITIVITY FAILED ************")
+
